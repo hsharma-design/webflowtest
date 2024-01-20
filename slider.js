@@ -1,5 +1,5 @@
 function slider1() {
-alert("Hello");
+alert("Hello 2");
 let splides = $('.slider1');
 for ( let i = 0, splideLength = splides.length; i < splideLength; i++ ) {
 	new Splide( splides[ i ], {
